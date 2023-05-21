@@ -13,11 +13,11 @@ if is_python_file(filename):
 else:
     print("Girilen dosya bir Python programı değildir.")
 
-
 # Ekran Çıktıları
 # Dosya Adını Giriniz: program.py
 # Girilen dosya bir Python programıdır.
 
 # Dosya Adını Giriniz: README.txt
 # Girilen dosya bir Python programı değildir.
+
 
