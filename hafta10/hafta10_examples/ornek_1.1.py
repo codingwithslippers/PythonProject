@@ -1,0 +1,14 @@
+
+# HATALI KULLANIMA ORNEK 1.1
+a = 9**1/2
+print (a)
+# EKRAN CIKTISI
+# 4.5
+
+# DOGRU KULLANIMA ORNEK 1.1
+a = 9**(1/2)
+print(a)
+# EKRAN CIKTISI
+# 3.0
+
+
